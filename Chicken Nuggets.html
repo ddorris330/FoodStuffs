@@ -107,7 +107,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
   <body>
     <div class="w3-center w3-serif"><h2>Add a Review</h2>
 
-      <form>
+      <form action="thanks.php" method="post">
         <h4>Rating:</h4> <br>
         <h3><span class="fa fa-star"></span>
 		<span class="fa fa-star"></span>
@@ -117,10 +117,9 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
 		<input type="range" name="points" min="0" max="5"><br>
         <h4>Comments:</h4> <br>
         <h5><textarea name="message" placeholder="Add your comments here." rows="10" cols="40" ></textarea></h5>
-
-        <h5><input type="submit" value="Submit">
+        <h5><input type="submit" value="Submit Review">		
         <input type="reset" value="Reset"></h5>
-      </form><br>
+      </form><br>	
     </div>
 
 <!-- End page content -->
