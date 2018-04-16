@@ -53,19 +53,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
 
 
 
-  <hr id="about">
-
-  <!-- About Section -->
-  <div class="w3-container w3-padding-32 w3-center">  
-    <h3>About Us, The Food Team</h3><br>
-    <img src="Images/UTK.jpg" alt="TeamPicture" class="w3-image" style="display:block;margin:auto" width="800" height="533">
-    <div class="w3-padding-32">
-      <h4><b>UTK IE421 Term Project: Daniel Isaacs, Joey Reilman, Danika Dorris</b></h4>
-      <h6><i>Passion for high-quality food on a student-friendly budget!</i></h6>
-      <p>We are passionate about connecting locals with great food options while accommodating their budget! Our team's goal is to enrich the lives of our users by creating one stop for all your food comparison needs!</p>
-    </div>
-  </div>
-  <hr>
+  
   
 
 
